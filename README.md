@@ -1,4 +1,11 @@
-
+# Praktikum8
+```
+NIM     : 312310576
+NAMA    : TAUFIK HIDAYAT
+KELAS   : TI.23.A6
+MATKUL  : BASIS DATA
+DOSEN   : Agung Nugroho, S.Kom., M.Kom.
+```
 ![gambar_tugas](screenshot/Soal%20Tabel.png)
 
 ***Query MySQL Pada Tabel Perusahaan***
