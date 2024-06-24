@@ -76,11 +76,7 @@ output :
 SELECT k.nik, k.nama
 FROM karyawan k
 JOIN departemen d ON k.id_dept = d.id_dept
-WHERE d.id_dept IN (
-  SELECT id_dept
-  FROM karyawan
-  WHERE nama LIKE '%K%'
-);
+WHERE d.id_dept IN ( SELECT id_dept FROM karyawan WHERE nama LIKE '%K%' );
 ```
 
 output :
