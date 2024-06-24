@@ -22,19 +22,19 @@ MATKUL  : BASIS DATA
 
 ## TABEL DAN INPUT DATA
 
-### TABEL KARYAWAN
+#### TABEL KARYAWAN
 ![image](ss/ss3.png)
 
-### TABEL DEPARTEMEN
+#### TABEL DEPARTEMEN
 ![image](ss/ss2.png)
 
-### TABEL PERUSAHAAN
+#### TABEL PERUSAHAAN
 ![image](ss/ss4.png)
 
-### TABEL PROJECT
+#### TABEL PROJECT
 ![image](ss/ss5.png)
 
-### TABEL PROJECT_DETAIL
+#### TABEL PROJECT_DETAIL
 ![image](ss/ss6.png)
 
 ### MENGIDENTIFIKASI QUERY
